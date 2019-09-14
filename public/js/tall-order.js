@@ -56,116 +56,13 @@ $(document).ready(function() {
   // $('.levelDescription').text(place);
   //The game map
   var map = [
-    [
-      'v',
-      'v',
-      'v',
-      'v',
-      'v',
-      'v',
-      'v',
-      'v',
-      'v',
-      'v',
-      'v',
-      'v',
-      'v',
-      'v',
-      'v',
-      'v'
-    ],
-    [
-      'v',
-      'v',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      'v',
-      'v'
-    ],
-    [
-      'v',
-      'v',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      'v',
-      'v'
-    ],
-    [
-      'v',
-      'v',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      'v',
-      'v'
-    ],
-    [
-      'v',
-      'v',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      '.',
-      'v',
-      'v'
-    ],
-    [
-      'v',
-      'v',
-      'v',
-      'v',
-      'v',
-      'v',
-      'v',
-      'v',
-      'v',
-      'v',
-      'v',
-      'v',
-      'v',
-      'v',
-      'v',
-      'v'
-    ]
+    [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+    [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+    [7, 7, 7, 7, 7, 7, '.', '.','.', 7, 7, 7, 7, 7, 7, 7],
+    [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+    [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+    [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
   ];
-
   //The game objects map
   var gameObjects = [
     [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -406,36 +303,6 @@ $(document).ready(function() {
       }
     }
 
-    //make a random wave
-    randWave = () => {
-      let waveNum = Math.floor(Math.random() * 8);
-      if (waveNum === 0) {
-        return './images/tonnta0.png';
-      }
-      if (waveNum === 1) {
-        return './images/tonnta1.gif';
-      }
-
-      if (waveNum === 2) {
-        return './images/tonnta2.gif';
-      }
-
-      if (waveNum === 3) {
-        return './images/tonnta3.gif';
-      }
-      if (waveNum === 4) {
-        return './images/tonnta0.png';
-      }
-      if (waveNum === 5) {
-        return './images/tonnta0.png';
-      }
-      if (waveNum === 6) {
-        return './images/tonnta0.png';
-      }
-      if (waveNum === 7) {
-        return './images/tonnta0.png';
-      }
-    };
 
     //Render the game by looping through the map arrays
     for (var row = 0; row < ROWS; row++) {
@@ -2011,7 +1878,7 @@ $(document).ready(function() {
   updateBGImage = () => {
     var bg;
     locationMapInfo.getAll().forEach(function(location) {
-      bg = 'url("./images/maps/localMaps/174.png")';
+      bg = 'url("./images/maps/localMaps/u184.png")';
       //   alert(bg);
       $('#stageBG').css('background-image', bg);
       console.log('bg:  ' + bg);

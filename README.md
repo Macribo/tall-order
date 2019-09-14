@@ -1,50 +1,48 @@
 
 Romantic Ireland
 
-Lies in a silent valley 
+Lies in a silent valley
 
 on the Moon.
 
-Incomming transmission fro
-m the Lunar 
-Ministry of Gaelic Finance:
+Teachtaracht o Roinn na Gnothai Geallach
+Incomming transmission from the Ministry of Lunar Affairs:
 
-Tchanss
+Tchanss...
 
 Nach eiróidh linn;
 tchanss 'nar dul amú.
-Pointe onóir é 
+Pointe onóir é
 ár seacht ndícheal;
 tchanss onóir é
 tchanss gur fiú.
 
-Ón nádúr a thánamar. 
-Ár gníomh, gníomh an nádúr. 
+Ón nádúr a thánamar.
+Ár gníomh, gníomh an nádúr.
 Bímís gníomhach.
 
-<h2>
-Fadó fadó in 3ireann, roimh teacht an Nua aois...
-</h2>
 
-sea.
+An bhfuil níos mó i gceist le teanga ná caint?
+
+Ta
 
 teachtaracht ón aire Airgidis, Mícháil Ó Conníle.
 
 cad tása chiste?
 II. chláraigh le filebox.io chun leanúnt ar aghaidh.
 
-
+gġ
 glaoigh  viii air.glachfar leis gur feidirrílacha creative commons a leanúnt go dtí go mbionn ár foireann dlí eagraithe''
 let fhooper = new NPC("fhooper agus ceart1",..){
-	
+
 	open();
 	returnCargo()
 	ejectCargo();
 	receiveCommand();
 	executeCommand();
-	
+
 	class NPC = (nqme, dialogs1 dialovues 2, favoriteThings,currentMission,LifeGoal,puimaryConksrn,hp,atack,intelligence,wisdom,inventory,dex,secretpowers,mp,){
-		
+
 		constructor = {
 			this.name = name;
 		}
@@ -58,92 +56,59 @@ let fhooper = new NPC("fhooper agus ceart1",..){
 let túsanna =[{
 
 h2'eist anois go géar agus abair lin; cad a chloisean tú? >bó ag cogaint, >asal ag cogaint,>
- tada' 
+ tada'
 },{'an coir kíap':'mp31.rand};çbbbbb b  rff fbfbb  fgb
 fbbgfg4
 /*
 ichbin 16 jahre oder meher, und     w/**/b bbilling to consider adult ideas. y@s/nein
 
 
-knapf1 bathnaigh síar ar na heachtí arthóg ch an pointe seo muid:
-[
+knapf1
+Leabhair leis an crann.
+Cad is ainm dhuit?
+//var
+
+mac le /var rand1 ?
+is me? Sean aithne againn ar bhur sinsar uasal. ba a mac b mac c mac d ui /rand contae do shin shin shin sean rand mathar/athair; agus ta [claim] agat ar paiste talun ansin fos.
+
+ca bhfuil me
+
+Seo tir aslin; tir na sidh. Ar mhaith leat siul a chaithamh síar ar na heachtrí ar thóg chun an pointe seo thu?
+
+
+
+<h2>
+Fadó fadó in 3ireann, roimh teacht an Nua aois...
+</h2>
+stop/ar aghaidh
+[sceal na gael 1]: ba miath liom imeacht. //Go brea! Ach cogair focail faire le go naithnofar aris thu, a //ainm iomlan:
+
+Feichfaidh muid aris thu ar ball...  sios sios visitors
+
 0 {tús phonte : onomatopae fuam match.mp3 [lv0,lv1,...19 lv ]; if(onomatopae score !==0){
-    
-    
-   $.('#abilitybuttonspanel').css.style('display:block') new ability unlocked.
-}//onclch ní feidir cleàsanna nua a usáid san aimsir chaite. fill ar an aimsir laithreach chun an teicníc seo a úsáid.
-1a<( )
-p0},{uimhracha, bontús matamatic;ui, gs cona s íad a coireamh i ngearmáinis}];...
-
-an aimir lithreach cad atá á denamh agam chun ealú ón geirchéim seo.
-...
-
-ridire ón
-
-nordschwein theme: casino pachinko with stars flashing lights . pig slot machine selector , zom on frightened eye then swipe to kil róm 1 with weapon dial. tut gut tut from sm8ling aßistant if playrr f$
-
 
 
 roghnaigh go tapadg anois agus beidh deis agat absin arball é a thabhairt chun foiifeachta.
 
 
+>foghlaim an coinceap>
+ni speis liom an gaeigle
+nil me muinneach as mo chuid gaeilge>
+Tuigim an coinceap> an bhfuil gaeilge measartha maith agat theana fein?> An tuigeann tu cursai riomharachta go maith? Ar speis leat bheith pairteach sa foireann claru?:Ar speis leat cursai riomharacta a foghlaim tri mean na Gaeilge?
 
-
-
-
-yinreoir cleite footer generator.dúais
-
-failte go cleite. is feudir leathnsigh ón wew s roint ó do bhaile
-
-
-
-
-
-
-
+ghinnunt characteir> glach seileamh ar an talamh> roghadh clarau le linkbox.
 
 
 */
 
-
-Chailte.css 
-
-hack Fleisch 
-
-nothing personal.riddle[(())]
-
-let msp
-
-
-
-lets just jump right in. 
-let tuigim=[
-]
-deas
-
-síar,ar Ghaidhsúas síos ól brú oscail, dún, ionzaigh, breathnaigh, leabhair, theith béic, tógúfáis an fur'clé'
-
-
-
-
-]roinn nasc leie an íomhá nó alt is fearr a mhíníons linn cúrsaí an chiste is fearr mar a thuigeann tú íad. cutlrsaí myíonlúthàin i
 Raight
 arsa an ministéir airgidis
 cad deirfá faoi sean chiorcal amháin a oscailt? hau? cad deirfá faoi sin. roighnaigh ceann.
 
 
-
-
-
-A. a chara sa ciorcal sídh,
-Guten tag, Herr Ritter.
-/Halt halt arsa sévagus é ag trraingtjdhncnvg   amachachlOimh
-Gutentag, Herr Ritter, arsa mise leis. 
-
-
 A dhuine úasal, arsa mise leis.
 
-tagann an gorse ag brú iseachar arís gi tobann anseo. ar aire! .js. ní thionann ám anseo mar a shílfeá. fuckit. seo thugainnarís íA6فففففففففففف444444444  333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333|2d arsa sé, ag lûascaidh a chliomh ar shon extinction  rebellion.
+tagann an gorse ag brú iseachar arís gi tobann anseo. ar aire! .js. ní thionann ám anseo mar a shílfeá. fuckit. seo thugainnarís arsa sé, ag lûascaidh a chliomh ar shon extinction  rebellion.
 
 ..
 
@@ -153,21 +118,8 @@ b. meinen personlich reliance on a comfortable world that is costing us the eart
 c. hold me for a terror no man has seen or known approaches.
 d. lean mé, mar feicim bhealach.
 
-.
-goite ansin, cé in ár measc a gceapann sibh go bhfuil a fios agaibh conas troid?
-beidh ort cleatter maith laidir a ghabhairt dó, chun a intinn a aithrú.  imreoirí a sheasann le seo : 0% nó é a mhairu. 100% roghnaigh. ag úsáid a linkbox struchtúr ag tosúle xr
-,, filter down to imreoir amháin
-Earth stand
 
 
-
-
-
-
-Ceist:
-
-
-An bhfuil níos mó i gceist le teanga ná caint?
 
 
 
@@ -205,7 +157,7 @@ Ná easpa spéis inti, agus cinnte ní de bharr easpa thoill ach oiread.
 
 Tá an Gaeilge cheilte ag an Bearla.
 
- 
+
 Mar freagra ar ceist mór na Gael:
 Spás fiorúl i nGaeilge
 B'feidir gur feidir
@@ -221,7 +173,7 @@ Ach gan smaointe, níl i nGaeilge ach dilín.
 Tá seoda agat mar sin!
 
 
-Tosaigh anois ag smaoineamh i nGaeilge. 
+Tosaigh anois ag smaoineamh i nGaeilge.
 
 
 //TÁ GAEILGE LÍOFA AGAM
@@ -260,7 +212,7 @@ Fágann Bearla muid ag plé ceist an teanga amhlaidh is gur ornáid maisaithe cu
 Fágtar muid ag caint i dtearmaí líonn na 'Irish Speakers'. Feictear nach bhfuil múrán á labhairt, agus glachtar leis mar sin nach chailfar murán gan í. Toisc gur feidir aon nóisean a aistrú go Bearla, níl aon gá le Gaeilge. I mBearla, níl aon gá le Éire, mar is leoir 'Ireland'.
 
 
-Ach tá níos mó i gceist le teanga ná caint. Comhras smaoineamh í an Ghaeilge. Eiceachóras físanna na mílte blianta d'aois í. Sin rud laidir. Seo rud laidir eile: tá Gaeilge éigin ag gach Bearl-cainteoir sa tír. Ní ábhar fachnaoid iad na cúpla focal. Síolta íad. 
+Ach tá níos mó i gceist le teanga ná caint. Comhras smaoineamh í an Ghaeilge. Eiceachóras físanna na mílte blianta d'aois í. Sin rud laidir. Seo rud laidir eile: tá Gaeilge éigin ag gach Bearl-cainteoir sa tír. Ní ábhar fachnaoid iad na cúpla focal. Síolta íad.
 
 
 Ar mhaith leat tríal a bhainnt as?
@@ -273,10 +225,10 @@ Muid fein a sainú mar Gael, i "tír" Gaelach digitach
 Comhoibrú chun áisanna nua a chuir ar fáil.
 
 Cuspoir an forógra seo ná gur nós linn smaoineamh faoin Gaeilge i dtearmaí cainteoirí, nó i dtearmaí Bearla.
-An triú rogha ná smaoineamh i nGaeilge. 
+An triú rogha ná smaoineamh i nGaeilge.
 
  Cad é an gaol idir teanga agus aigne?  beocht agus neart ag Teanga.eanga feidir spásanna fíorúil a usáid greidhm a fáil ar an Gaeilge arís.
-Tá smaoineamh faoi teanga i dtearmaí cainteoirí, 
+Tá smaoineamh faoi teanga i dtearmaí cainteoirí,
 
  i spás fíorúil, beidh muid inánn an Gaeilge a thabhairt isteach i cotheacs   
 
@@ -305,13 +257,13 @@ fin. sceal.
 
 
 Tá nios mó sa sceal Gaelach ná gglíonn na 'Irish Speakers', ach ní feidir an Gaelachas a mheas go cruin gan é a thusicint.
- 
+
 Sprioc an forógra seo hé, rá cé a bhfuil i gceart, nó cad ar chomhair dÉireannach smaoineamh, faoí aon rud.  
 Níl uaim ach mhearú dhuit, go bhfuil bealach eile smaoineamh  
 
 
 
- Tá chuid eile 
+ Tá chuid eile
 
 Deireanan teoas sin cupa rud usaideach linn, ach tásé tiomtaithe den rud atá tárlaithe ní dun r rud aá le teacht.  Ní feictear mar shampla, cé mhead daoine ard'featach a bheith a g caint i nGaeilge. 999%, scapthaithe ar spectrum chonílacha eagsúla , áit, ám oideachas, comhlúdar spreag etctríd an cheist a plé i mBearla, ag pointe eigint, nílimíd ach ag brú an gaeigle amach as an spás comónta.
 
@@ -327,24 +279,24 @@ Ina measc, tá iad siúd //cosúl leatsa,  gur chuma leo bealach amháin nó bea
 
 Ina measc, tá daoine a deir gur fuaith leo í, ach má eistín muid go cuaramach leo, is leir nach hí an teanga gur fuaith leo i ndarríre, ach an bealach ar muanadh doibh í.  Agus cad faoi sin?  >>> stair / geir ceim/ tús nua / tábhacht/ cairdeas / nua feidearachtaí. >>>
 
-Ina measc, tá daoine nach 
+Ina measc, tá daoine nach
 
 Ina measc tá daone le gráin nimhnach don teanga, d'aon rud Gaelach.
 Bí ar aire.
 
 
-Mura mbeadh i teanga ach bealach cainnte, bheadh pointe ag na sluite atá i gcoinne an Gaeilge. 
+Mura mbeadh i teanga ach bealach cainnte, bheadh pointe ag na sluite atá i gcoinne an Gaeilge.
 Chreidin cuid eileIs cuma leo an Gaeilge, agusú. Tá ám, iarracht agus airgead chaite leis an teanga.
-D'arr le roint daoine, cuir amú atá ann. Ba leoir, dar leo, Google translate in áit gluiseacht athbheocaint. 
+D'arr le roint daoine, cuir amú atá ann. Ba leoir, dar leo, Google translate in áit gluiseacht athbheocaint.
 Má tuigeann tú an teacs seo, tá tú ag smaoineamh i nGaeilge.
 Bánaíodh an cumas smaoineamh sin i lár an 17ú aois déag.
 
-Tá muid critiúl faoin áɼsfaion ár gcumas cainnte, agus ní gan cuais. Bín .. 
+Tá muid critiúl faoin áɼsfaion ár gcumas cainnte, agus ní gan cuais. Bín ..
 
 Agus bin faidhb le fada an lá.
 Ach deirigh linn í a chomead, nó de mhar sí beio in aineoinn sin.
 
-Agus seo anois  anois tá doras nua oscalte 
+Agus seo anois  anois tá doras nua oscalte
 
 
 mhar sí mar sin sa dorchadas,
@@ -362,7 +314,7 @@ Ba cheart go mbeadh tuiscint riomahrachta  indeanta, tríd mean na gaeilge.
 
 Beidh sé speisúl , agus usaideach, agus curfaidh sé deanfaidh sé curfaidh sé deiseanna eile ar fil, deiseanna postíochta, co-oibvrú agus irl.
 
-is leor sin fail.  Aithním go bhfuil deachtraí ag bainnt le seo.  Níl faoi láthar mar shampla, teanga ard leibheal riomharachta i nGaeilge.  Níl tearmaí cruinn riomharacta forleathainn.agu saithníom go bhfuil faidhbanna eile is docha nar athnaigh mé go foill. 
+is leor sin fail.  Aithním go bhfuil deachtraí ag bainnt le seo.  Níl faoi láthar mar shampla, teanga ard leibheal riomharachta i nGaeilge.  Níl tearmaí cruinn riomharacta forleathainn.agu saithníom go bhfuil faidhbanna eile is docha nar athnaigh mé go foill.
 Ach níltábhacht anteicnólíócht ag laighdú, agus tá me  ar bís le tús a chuir leis an imram seo.o.
 Tá deis specialta againn anois ag tús an ré digitach, ar smaointe a aithrú. Tá sé in ám duinn ár smaointe a aithrú.
 
@@ -372,7 +324,7 @@ Tá deis specialta againn anois ag tús an ré digitach, ar smaointe a aithrú. 
 
 
 
- 
+
 
 
 
@@ -382,17 +334,17 @@ Ná bac faoi 'Irish Speakers'.
 
 
 
-priomh faidhm teanga ná cumarsáid idir dhaoine. 
+priomh faidhm teanga ná cumarsáid idir dhaoine.
 i
 
 
 
 
- 
 
 
 
-Aimsiġim: I aim, direct, attack; 
+
+Aimsiġim: I aim, direct, attack;
 I strike, hit the mark;
 I recognise at a distance
 (aim with the eye); I find out,
@@ -404,7 +356,7 @@ one who is continually grumbling;
 a buffoon; a fool who affects being a wise man.
 
 Acrach:
-hungry. 
+hungry.
 See ocrach.
 
 Aibhneach:
@@ -426,16 +378,16 @@ I have a feeling of friendship towards you.
 
 
 Ó 1993 go 1999,
-Bog an greasán ó 
+Bog an greasán ó
 
-fíochán documeidí 
+fíochán documeidí
 
 go
 
 fíochán feidhmeanna;
 
 
-1993 - soláthraigh Mosaic Browser//.png 
+1993 - soláthraigh Mosaic Browser//.png
 foirmeacha chun go d'featach usáidoir eolas a sheoladh ar ais chuig an friothálaí;
 
 1995 - Javascript
@@ -443,7 +395,7 @@ foirmeacha chun go d'featach usáidoir eolas a sheoladh ar ais chuig an friothá
 1999 - teicnólíócht/teicníc ar a dtugtar XMLHTTPRequestobject agus an HTML4.01:
        geata isteach ar 'Tír Feidhmeanna JS'.
 
-Anois, 18 bliana ar ball, tá HTML 5 á foghlaim againn, 
+Anois, 18 bliana ar ball, tá HTML 5 á foghlaim againn,
 seo a deanannn sé:
 
 
@@ -493,16 +445,16 @@ feirín ina mhála agus cad a bhí aige?
 Díarr sé céist ort agus cad a bhí uaidh?
 
 Fibonacci
-Recursion 
+Recursion
 
 
 Daoine óga,
 nearóga,
 codánach a 5 sin
 
-5 * 4 * 3 * 2* 1 
+5 * 4 * 3 * 2* 1
 
-agus tá sin cothram le 
+agus tá sin cothram le
 120
 cé chomh fada ar thóg sé ort é sin a oibrú amach?
 
@@ -513,7 +465,7 @@ Teanga riomharactha é JavaScript; atá cosúl le Bearla. Tá JavaScript liofa a
 //Treoir chun Oscail console agus scriobh seo
 
 function codánaigh(n){
-    if(n==0){            /*seo hé an bun cás. 
+    if(n==0){            /*seo hé an bun cás.
 Tufaidh muid cuirfaidhmís uimhear eigin in áit n, roimh a leieann an brabhsálaí an cód seo.
   */  
         return  1;
@@ -562,7 +514,7 @@ There are no practical benefits for revival beyond nostalgia and sentimentality.
 that's not just anti irish, that's fucking unpatriotic. You've been sayint that kind of shit for years.
 
 What's the *least* Irish thing about you? by Someofus in ireland
-[–]quantumsheep[F] 9 points 3 years ago 
+[–]quantumsheep[F] 9 points 3 years ago
 I don't give a damn about our native language
 
 Those Gaeilgeoirs love bitching about having everything in Irish, don't tempt them.
@@ -582,7 +534,7 @@ pointe a trí:
 
 Más meoin é, is rogha é.
 
-Freagra an cheist mar sin: 
+Freagra an cheist mar sin:
 Is Gael muid nuair is Gael muid.
 
 
@@ -599,7 +551,7 @@ Dúthlán: Abair Rap i nGaeilge agus roinn linn ar youtube é! Inis duainn conas
 
 //Éir32 links players to different resources and can also be played as a game, or navigated as a portal to games and resources.
 One early use:
-A new user after character creation/calibration is given permission to claim a land.  An early phase of the game is finding the land. NPCs far away can direct the user to the correct province. Nearer ones can direct user to the correct County. Nearer ones can direct to the correct location. Some npcs are mischevious? Some have questions of their own that need to be answered, before they will be willing to help? 
+A new user after character creation/calibration is given permission to claim a land.  An early phase of the game is finding the land. NPCs far away can direct the user to the correct province. Nearer ones can direct user to the correct County. Nearer ones can direct to the correct location. Some npcs are mischevious? Some have questions of their own that need to be answered, before they will be willing to help?
 
 
 //players hoping to learn Irish for example might be directed to Maynooth ancient seat of learning.
@@ -739,7 +691,7 @@ An Inse
 Tigh na Sióg
 Cill Ḃríde
 Ráth Ċairn
-Buaile na Bréachṁaí 
+Buaile na Bréachṁaí
 
 Contae Ċill Ṁantáin
 Cill Ṁantáin
@@ -762,7 +714,7 @@ Guaire
 Coill an Iarainn
 Cill Téile
 Teaċ Munna
-Rinn Duáin 
+Rinn Duáin
 An Sailte Beag
 An Sailte Mór Ceann an Ċairn Cé na Cille Móire
 Dún Ċormaic
@@ -774,7 +726,7 @@ Maolán na nGaḃar
 Contae Ṗort Láirge
 Dún Garḃán
 An Baile Dubh
-Béal na Molt 
+Béal na Molt
 Cill Ṁíodáin
 Coill Ṁic Ṫomáisín
 Trá Ṁór
@@ -806,8 +758,8 @@ Contae Ċiarraí
 Na Cruaċa Duḃa
 Ċill Airne
 An tSnaidhm
-An Daingean 
-Neidín 
+An Daingean
+Neidín
 Cathair Saiḋḃín
 Caisleán na Mainge
 Lios Tuaṫail
@@ -847,10 +799,10 @@ Béal Átha Ġártha
 An Teach Dóite
 Tír na Cille
 Inis Bó Finne
-An Spidéal 
+An Spidéal
 An Ċeaṫrú Rua
 Inis Mór
-Inis Meáin 
+Inis Meáin
 Inis Óirr
 Goirtín
 Béal Átha na Sluaiġe
@@ -881,14 +833,14 @@ Caisleán an Ḃarraiġ
 
 Contae Ṡligiġ
 Sligeaċ
-Ceaṫrú an Eadain 
+Ceaṫrú an Eadain
 Cúil Áine
 Áth an Ċláir
 An Corrḃaile
 Iascaigh
 Gob Reaċla
-Caiseal an Ġearráin 
-An Mullach Mór 
+Caiseal an Ġearráin
+An Mullach Mór
 Baile Uí Ḋálaigh
 An Ġaoḃach
 Béal Átha na gCarraigíní
@@ -907,7 +859,7 @@ Scramóg
 Baile an Tobair
 Cluain Fada
 Bealach an Doirín
- Mainistir na Búille 
+ Mainistir na Búille
 Cnoc an Ḃiocáire
 Tobar Bríde
 Cnoc an Ċrocaire
@@ -931,7 +883,7 @@ Cill Daṁáin
 Contae An LongFoirt
 An LongFort
 Maiġ Duṁa
-Droim Lis 
+Droim Lis
 An Lios Breac
 Cluain Dá Ráth
 An Ċarraig Ḃuí
@@ -983,7 +935,7 @@ Port Laoise
 Cúil an tSúdaire
 Baile Átha Í
 Baile na Coille
-Eiréil 
+Eiréil
 Buiríos Mór Osraí //Shortcut to an Osraí eile? //linked hack and slash dungeons w.batman sfx G.
 Baile Ċaisleáin Ċinn Eich
 Darú
@@ -1007,7 +959,7 @@ Contae Ċeaṫarlaċ
 Ceaṫarlaċ
 Cill Deirge
 An Tulach
-Ráth Ḃile 
+Ráth Ḃile
 Cill Téagáin
 Balana
 Fionnṁaċ
@@ -1029,15 +981,15 @@ Caiseal
 Cnoc Mór na nGaiḃlte
 Na Gaiḃlte
 Tigh na Naoi Míle
-Teampall Tuaiṫe 
+Teampall Tuaiṫe
 Faiċe Ró
 An tAonach
 Sliabh na mBan
 Baile an Ġarraí
-An Ċloiċin 
+An Ċloiċin
 An Ċaṫair
 Mainistir na Croiċe
-Buiríos Ó Luiġeach 
+Buiríos Ó Luiġeach
 Carraig an Ċoṁraic
 Tír Dá Ġlas
 Pocán
@@ -1045,11 +997,11 @@ Cluain Meala
 
 Contae Luimnigh
 Luimneach
-Lios na Graí 
+Lios na Graí
 An Leaca Ṁór
 Brú Rí
 An Caisleán Nua
-Carraig Ċiarraí 
+Carraig Ċiarraí
 Baile Ḋá Ṫuile
 Eas Géitine
 Pailis Ċaonraí
@@ -1080,7 +1032,7 @@ Coill an Ċollaiġ
 Contae Ḟear Manaċ
 Inis Ceiṫleann
 Scriobaċ
-An Garastún 
+An Garastún
 Lios na Daróg
 Eadarnaiḋ
 Lios na Scéiṫe
@@ -1125,7 +1077,7 @@ Dearḃóg
 An Tulaċán
 Gleann Éada
 Coillte Cloċair
-Cluainín 
+Cluainín
 Cill Féarga
 Baile na gCléireach
 Aċaḋ na Síleann
@@ -1134,12 +1086,3 @@ Dromad
 Cora Droma Rúisc
 Garḃach
 Droim Seanḃó
-
-
-
-
-
-
-
-
-  

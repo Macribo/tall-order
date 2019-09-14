@@ -191,7 +191,7 @@ body {
   /* border: 2px solid blue; */
 }
 #text-output {
-  position: absolute;
+  /* position: absolute;
   pointer-events: none;
 
   background-color: rgba(10, 10, 10, 0.2);
@@ -207,10 +207,10 @@ body {
   align-items: center;
   -webkit-box-pack: center;
   -ms-flex-pack: center;
-  justify-content: center;
+  justify-content: center; */
 }
 .levelDescription {
-  color: rgb(184, 168, 168);
+  /* color: rgb(184, 168, 168); */
   margin: 5px;
   text-align: center;
   font-size: 4em;
@@ -428,24 +428,11 @@ body {
   display: grid;
   grid-gap: 10px;
 
-  color: #444;
+  color: #444444;
 }
 
 .box {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-line-pack: center;
-  align-content: center;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-  background-color: #444;
-  color: #fff;
-  border-radius: 5px;
 
-  padding: 10px;
-  font-size: 100%;
 }
 
 .header {
