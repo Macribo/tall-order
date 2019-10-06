@@ -57,7 +57,7 @@ $(document).ready(function() {
   //The game map
   var map = [
     [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
-    [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+    [7, 7, 7, 7, 7, 7, 7, '.', 7, 7, 7, 7, 7, 7, 7, 7],
     [7, 7, 7, 7, 7, 7, '.', '.','.', 7, 7, 7, 7, 7, 7, 7],
     [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
     [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
@@ -277,7 +277,7 @@ $(document).ready(function() {
         case BLOCKED:
           //Undo last key press
           //   alert('blocked!');
-          alert('Blocked' + lastPressed + Cookies.get('locationID'));
+          // alert('Blocked' + lastPressed + Cookies.get('locationID'));
           blockPath();
           break;
         case WAVES:
