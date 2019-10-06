@@ -2008,12 +2008,26 @@ $(document).ready(function() {
 
 
 
+$('#about').on('click', function(){
+  $('.ui').fadeOut();
+})
+
+jQuery('#example2').raindrops(
+	{color:'#27262a',
+	canvasHeight:200});
 
 
+$('#shout').on('click', function(){
+  // alert('hey')
+setTimeout(function(){
+  $('.playerShout').fadeIn();
+  $('#example2').fadeTo("slow",1);
+  $('.playerShout').focus();
+},1000);
+  $('.btn').fadeOut();
 
 
-
-
+});
 
 
 ///////////
