@@ -2001,6 +2001,31 @@ $(document).ready(function() {
     updateBGImage();
     render();
   }
+
+
+
+/////////
+
+
+
+
+
+
+
+
+
+
+
+///////////
+
+setTimeout(function(){
+  $('.ui').fadeIn();
+},6000)
+
+
+
+
+
 }); //close document ready function
 let rando = Math.floor(Math.random() * 40 + 150);
 let randMap = 'url("./images/maps/localMaps/bg' + rando + '.png")';
