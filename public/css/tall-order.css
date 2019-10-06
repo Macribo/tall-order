@@ -395,5 +395,12 @@ p
 }
 button {
   z-index: 5000;
-  position: fixed;
+  /* position: fixed; */
 }
+
+
+#button-menu{
+  display:grid;
+  border:3px solid orange;
+}
+.ui{display:none;}
