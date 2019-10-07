@@ -8,7 +8,11 @@ on the Moon.
 
 <br>
 Let's just pretend that this works right now.
+<br>
+<img src="https://imgur.com/GMHImR0">
+<br>
 There's obviously more code to write rewrite read right rw and or © 
+<br>
 but dont just imagine - 
 <br>
 <img src= "https://imgur.com/6M9WpY4.png" width="680">
@@ -17,8 +21,8 @@ but dont just imagine -
 <br>
 <img src="https://imgur.com/KMyOAn3.png" width="680">
 
-Teachtaracht o Roinn na Gnothai Geallaí
-Incomming transmission from the Ministry of Lunar Affairs:
+<h2>Teachtaracht o Roinn na Gnothai Geallaí
+Incomming transmission from the Ministry of Lunar Affairs:</h2>
 
 <h1>Tchanss...</h1>
 <br>
@@ -50,15 +54,18 @@ cad tá sa chiste? | How are our finances?
 </h3>
 
 
-Tá muid gann ar achmhanaí. Ach tá 30,000 fáinní sídh aginn. | We are low on resources, but we have some unopened fairy rings.
+Tá muid gann ar achmhanaí. Ach tá na mílte fáinní sídh aginn. | We are low on resources, but we have some unopened fairy rings. Sir.
+
+<br>
+
 <img src= "https://i.imgur.com/FdOnfC5.png" width="680">
 
-
+<br>
 Cad deirfá faoi sean chiorcal amháin a oscailt? hau? Ar feadh cúpla nóméad. Cad deirfá faoi sin. roighnaigh ceann. | What would you say to opening one old circle? Just for a few minutes. 
 <br>
 <h2>Choose one.</h2>
 
-<img src= "https://imgur.com/AerjhQB.png" width="680">
+<img src= "https://imgur.com/58LxqbR.png" width="680">
 <br>
 "A dhuine úasal," arsa mise leis.
 ...
@@ -70,14 +77,16 @@ An feidir Gaeilge a thuiscint i mBearla?
 
 Samhlaigh ar feadh nóméad gur
 easpa spás is cuis len ár dúcheist teanga.
-
-Ní  Ní easpa Gaeilge is cúis len ár dúcheist Teanga,
+<br>
+<img src="https://imgur.com/npy1wGO.png" width ="680">
+<br>
+Ní easpa Gaeilge is cúis len ár dúcheist Teanga,
 Ní de bhárr easpa spéis go bhfuil muid lag intí;
 
 cinnte ní de bharr easpa iarracht ach oiread.
 
 Tá an Gaeilge faoí chéilt.
-
+<img src="https://imgur.com/2mcbyRx.png" width ="680">
 
 Mar freagra ar ceist mór na Gael:
 Spás fiorúl i nGaeilge
@@ -86,11 +95,10 @@ Linn aithrú a spreagadh sa scéal
 
 Is feidir linn líofacht a fáil arís ar an Gaeilge, le cheile, i spás fíorúil; 
 i gcomhair beart agus bríthar.
-
+<br>
 
 Tá seoda agat mar sin!
-
-
+<img src="https://imgur.com/a/nkW5Xgy.png" width ="680">
 
 Ní feidir smaoineamh i nGaeilge, i mBearla.
 
@@ -113,8 +121,9 @@ Tá Gaeilge éigin ag gach Bearl-cainteoir sa tír. Ní ábhar fachnaoid iad na 
 
 Ar mhaith leat tríal a bhainnt as nós nua?
 
-
-
+<br>
+<img src="https://imgur.com/StNBvWf" width ="680">
+<br>
 O náid.
 
 1, 2 3.. 10
