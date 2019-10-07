@@ -97,14 +97,15 @@ Is feidir linn líofacht a fáil arís ar an Gaeilge, le cheile, i spás fíorú
 i gcomhair beart agus bríthar.
 <br>
 
-Tá seoda agat mar sin!
-<img src="https://imgur.com/a/nkW5Xgy.png" width ="680">
+<h3>Tá seoda agat mar sin!</h3>
+<br>
+<img src="https://i.imgur.com/o96ZNAw.jpg" width ="680">
 
 Ní feidir smaoineamh i nGaeilge, i mBearla.
 
 I mBearla, tá an Gaeilge glanscartha ó brí an Gaeilge.
 
-I mBearla, caithfaidh muid an Gaeilge a pléa amhlaidh gur dilín í. 
+I mBearla, caithfaidh muid an Gaeilge a pléa amhlaidh gur dilín í.  (ornament)
 Ní tuigtar go mbeadh aon tionchar ar sochaí ag breith greidhm ar an Gaeilge arís.
 
 Plétar í i leith 'Irish Speakers'. 
