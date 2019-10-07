@@ -1,4 +1,4 @@
-<img src="https://imgur.com/F9lOBeU.png" width="60">
+<img src="https://imgur.com/F9lOBeU.png" width="680">
 Romantic Ireland
 
 Lies in a silent valley
@@ -11,18 +11,18 @@ Let's just pretend that this works right now.
 There's obviously more code to write rewrite read right rw and or © 
 but dont just imagine - 
 <br>
-<img src= "https://imgur.com/6M9WpY4.png" width="60">
+<img src= "https://imgur.com/6M9WpY4.png" width="680">
 
 
 <br>
-<img src="https://imgur.com/KMyOAn3.png">
+<img src="https://imgur.com/KMyOAn3.png" width="680">
 
 Teachtaracht o Roinn na Gnothai Geallaí
 Incomming transmission from the Ministry of Lunar Affairs:
 
 <h1>Tchanss...</h1>
 <br>
-<img src="https://i.imgur.com/GMHImR0.png">
+<img src="https://i.imgur.com/GMHImR0.png" width="680">
 
 An bhfuil níos mó i gceist le teanga ná caint?
 
@@ -42,7 +42,7 @@ Tá sé in ám í a dhuiseacht.
 "Raight"
 arsa an Ministéir,
 
-<img src= "http://api.ning.com/files/xLJQfJNYZ-yQpCaWO0uF8GYQ8DsiwQ3erwYd5t4xKvKnGQI6DqGqWjiXcwRXIVch5uQmbG-6gN9y-mLLAmXtK6oi9im87TbM/collins.jpg">
+<img src= "http://api.ning.com/files/xLJQfJNYZ-yQpCaWO0uF8GYQ8DsiwQ3erwYd5t4xKvKnGQI6DqGqWjiXcwRXIVch5uQmbG-6gN9y-mLLAmXtK6oi9im87TbM/collins.jpg" width="680">
 
 
 <h3>
@@ -51,14 +51,14 @@ cad tá sa chiste? | How are our finances?
 
 
 Tá muid gann ar achmhanaí. Ach tá 30,000 fáinní sídh aginn. | We are low on resources, but we have some unopened fairy rings.
-<img src= "https://i.imgur.com/FdOnfC5.png">
+<img src= "https://i.imgur.com/FdOnfC5.png" width="680">
 
 
 Cad deirfá faoi sean chiorcal amháin a oscailt? hau? Ar feadh cúpla nóméad. Cad deirfá faoi sin. roighnaigh ceann. | What would you say to opening one old circle? Just for a few minutes. 
 <br>
 <h2>Choose one.</h2>
 
-<img src= "https://imgur.com/AerjhQB.png">
+<img src= "https://imgur.com/AerjhQB.png" width="680">
 <br>
 "A dhuine úasal," arsa mise leis.
 ...
