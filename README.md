@@ -123,7 +123,7 @@ Tá Gaeilge éigin ag gach Bearl-cainteoir sa tír. Ní ábhar fachnaoid iad na 
 Ar mhaith leat tríal a bhainnt as nós nua?
 
 <br>
-<img src="https://imgur.com/StNBvWf" width ="680">
+<img src="https://imgur.com/StNBvWf.png" width ="680">
 <br>
 O náid.
 
