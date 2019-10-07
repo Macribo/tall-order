@@ -9,7 +9,7 @@ on the Moon.
 <br>
 Let's just pretend that this works right now.
 <br>
-<img src="https://imgur.com/GMHImR0">
+<img src="https://imgur.com/GMHImR0.png">
 <br>
 There's obviously more code to write rewrite read right rw and or © 
 <br>
