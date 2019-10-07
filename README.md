@@ -1,3 +1,5 @@
+<a href= "https://macribo.github.io/char_select/public/index.html">View in Browser</a>
+
 <img src="https://imgur.com/eWu5B37.png" width="680">
 Romantic Ireland
 
