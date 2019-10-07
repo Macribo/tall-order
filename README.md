@@ -1,4 +1,4 @@
-<img src="https://imgur.com/F9lOBeU.png">
+<img src="https://imgur.com/F9lOBeU.png" width="60">
 Romantic Ireland
 
 Lies in a silent valley
@@ -9,20 +9,19 @@ on the Moon.
 <br>
 Let's just pretend that this works right now.
 There's obviously more code to write rewrite read right rw and or © 
-but dont just imagine:
-<img src= "https://imgur.com/6M9WpY4.png">
-	<h3>
-	
-cad tása chiste?
-</h3>
+but dont just imagine - 
+<br>
+<img src= "https://imgur.com/6M9WpY4.png" width="60">
 
 
-
+<br>
 <img src="https://imgur.com/KMyOAn3.png">
+
 Teachtaracht o Roinn na Gnothai Geallaí
 Incomming transmission from the Ministry of Lunar Affairs:
 
-Tchanss...
+<h1>Tchanss...</h1>
+<br>
 <img src="https://i.imgur.com/GMHImR0.png">
 
 An bhfuil níos mó i gceist le teanga ná caint?
@@ -32,23 +31,35 @@ Tá.
 Go minic smaoinín daoine ar costas nuair a deantar Gaelachas agus an Gaeilge a plé.  Is fior go bhfuil costas airgead agus fuinneamh ag bainnt leis an teanga a chaobhnú.  
 
 
-Tá sé deachair luach an teanga a thomhais, gan í a thuiscint. Luach Teanga, luach tuiscint.
+Tá sé deachair lúach an teanga a thomhais, gan í a thuiscint. Lúach Teanga, lúach tuiscint.
 
-Ní linn uiscí na hÉireann. Ní i ndarríre. 
+Ní linn uiscí na hÉireann, ní i ndarríre. 
 Ní linn na híasc na habhainn nó na crínn sna foirís. 
-Ár samhlíocht an áis is luachmhar gur linn í. 
+Ár samhlíocht an áis is lúachmhar gur linn í. 
 7
 Tá sé in ám í a dhuiseacht.
 
 "Raight"
-arsa an Ginearál Airgids,
-"Tá muid gann ar achmhanaí. Ach tá 30,000 fáinní sídh aginn.
+arsa an Ministéir,
+
+<img src= "http://api.ning.com/files/xLJQfJNYZ-yQpCaWO0uF8GYQ8DsiwQ3erwYd5t4xKvKnGQI6DqGqWjiXcwRXIVch5uQmbG-6gN9y-mLLAmXtK6oi9im87TbM/collins.jpg">
+
+
+<h3>
+cad tá sa chiste? | How are our finances?
+</h3>
+
+
+Tá muid gann ar achmhanaí. Ach tá 30,000 fáinní sídh aginn. | We are low on resources, but we have some unopened fairy rings.
 <img src= "https://i.imgur.com/FdOnfC5.png">
 
 
-Cad deirfá faoi sean chiorcal amháin a oscailt? hau? Ar feadh cúpla nóméad. Cad deirfá faoi sin. roighnaigh ceann.
+Cad deirfá faoi sean chiorcal amháin a oscailt? hau? Ar feadh cúpla nóméad. Cad deirfá faoi sin. roighnaigh ceann. | What would you say to opening one old circle? Just for a few minutes. 
+<br>
+<h2>Choose one.</h2>
 
-
+<img src= "https://imgur.com/AerjhQB.png">
+<br>
 "A dhuine úasal," arsa mise leis.
 ...
 
