@@ -1,15 +1,29 @@
-
+<img src="https://imgur.com/F9lOBeU">
 Romantic Ireland
 
 Lies in a silent valley
 
 on the Moon.
 
+
+<br>
+Let's just pretend that this works right now.
+There's obviously more code to write rewrite read right rw and or © 
+but dont just imagine:
+<img src= "https://imgur.com/6M9WpY4">
+	<h3>
+	
+cad tása chiste?
+</h3>
+
+
+
+<img src="https://imgur.com/KMyOAn3">
 Teachtaracht o Roinn na Gnothai Geallaí
 Incomming transmission from the Ministry of Lunar Affairs:
 
 Tchanss...
-https://i.imgur.com/GMHImR0.png
+<img src="https://i.imgur.com/GMHImR0.png">
 
 An bhfuil níos mó i gceist le teanga ná caint?
 
@@ -25,14 +39,6 @@ Ní linn na híasc na habhainn nó na crínn sna foirís.
 Ár samhlíocht an áis is luachmhar gur linn í. 
 7
 Tá sé in ám í a dhuiseacht.
-Let's just pretend that this works right now.
-There's obviously more code to write rewrite read right rw and or © 
-but dont just imagine:
-<img src= "https://imgur.com/6M9WpY4">
-	<h3>
-	
-cad tása chiste?
-</h3>
 
 "Raight"
 arsa an Ginearál Airgids,
