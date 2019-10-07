@@ -1,4 +1,4 @@
-<img src="https://imgur.com/F9lOBeU">
+<img src="https://imgur.com/F9lOBeU.png">
 Romantic Ireland
 
 Lies in a silent valley
@@ -10,7 +10,7 @@ on the Moon.
 Let's just pretend that this works right now.
 There's obviously more code to write rewrite read right rw and or © 
 but dont just imagine:
-<img src= "https://imgur.com/6M9WpY4">
+<img src= "https://imgur.com/6M9WpY4.png">
 	<h3>
 	
 cad tása chiste?
@@ -18,7 +18,7 @@ cad tása chiste?
 
 
 
-<img src="https://imgur.com/KMyOAn3">
+<img src="https://imgur.com/KMyOAn3.png">
 Teachtaracht o Roinn na Gnothai Geallaí
 Incomming transmission from the Ministry of Lunar Affairs:
 
