@@ -214,10 +214,10 @@ p
 }
 
 #about {
-  top: 5%;
+  /* top: 5%;
   right: 7%;
   position: fixed;
-  display: none;
+  display: none; */
   animation: 1s color-change infinite alternate linear;
 }
 
