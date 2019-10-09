@@ -2008,9 +2008,6 @@ $(document).ready(function() {
 
 
 
-$('#about').on('click', function(){
-  $('.ui').fadeOut();
-})
 
 jQuery('#example2').raindrops(
 	{color:'#27262a',
@@ -2033,7 +2030,11 @@ setTimeout(function(){
 ///////////
 
 setTimeout(function(){
+
+  if($('#tall-order').is(":visible") ){
   $('.ui').fadeIn();
+  console.log('hey')
+}
 },6000)
 
 

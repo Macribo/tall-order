@@ -218,15 +218,15 @@ p
   right: 7%;
   position: fixed;
   display: none; */
-  animation: 1s color-change infinite alternate linear;
+  animation: 32s color-change infinite alternate ease-in-out;
 }
 
 @keyframes color-change {
   from {
-    background-color: #ffbf00;
+    background-color: #303030;
   }
   to {
-    background-color: #f714e4;
+    background-color: #38c401;
   }
 }
 
