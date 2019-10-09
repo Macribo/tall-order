@@ -2009,7 +2009,9 @@ $(document).ready(function() {
 
 playerShouts = () => {
   //console.log( "Handler for .keypress() called." );
-alert('kungfu ');
+// alert('kungfu ');
+$('.playerShout').fadeOut();
+
 }
 jQuery('#example2').raindrops(
 	{color:'#27262a',
