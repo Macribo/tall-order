@@ -1,13 +1,15 @@
 <a href= "https://macribo.github.io/char_select/public/index.html">View in Browser</a>
 
-<img src="https://imgur.com/eWu5B37.png" width="680">
+<!-- <img src="https://imgur.com/eWu5B37.png" width="680"> -->
+<center>
+<img src="https://i.imgur.com/OoopIuF.png">
 Romantic Ireland
+<br>
 
 Lies in a silent valley
 
 on the Moon.
 
-<img src="https://i.imgur.com/OoopIuF.png">
 <br>
 
 <br>
@@ -251,3 +253,4 @@ Tá an ceart agat!
 
 
 fin. sceal.
+</center>
