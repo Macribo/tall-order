@@ -2007,8 +2007,10 @@ $(document).ready(function() {
 /////////
 
 
-
-
+playerShouts = () => {
+  //console.log( "Handler for .keypress() called." );
+alert('kungfu ');
+}
 jQuery('#example2').raindrops(
 	{color:'#27262a',
 	canvasHeight:200});
@@ -2018,7 +2020,7 @@ $('#shout').on('click', function(){
   // alert('hey')
 setTimeout(function(){
   $('.playerShout').fadeIn();
-  $('#example2').fadeTo("slow",1);
+  $('#example2').fadeTo("fast",1);
   $('.playerShout').focus();
 },1000);
   $('.btn').fadeOut();

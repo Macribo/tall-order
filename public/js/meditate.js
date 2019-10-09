@@ -10,5 +10,7 @@ $('#carousel').fadeIn();
 $('#tall-order').fadeOut();
 aboutGo();
 $('.ui').fadeOut();
+$('.rain').fadeOut();
 
 });
+

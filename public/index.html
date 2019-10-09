@@ -50,7 +50,8 @@
    </script>
    <body  onload="loadIt()" id="toLoad">
 
-      <div id="hold-frame" class = "rain">
+      <div id="hold-frame">
+         <div class="rain">
          <img src="./images/bg_Dark.png" id="dark-frame">
          <div id="holdSlide">
             <div id="carousel" class="carousel slide carousel-fade hidden">
@@ -62,7 +63,7 @@
                   </div>
                </div>
             </div>
-         </div>
+         </div></div>
       </div>
       <!-- close hold-frame-->
       <div class="wrapper">
@@ -158,10 +159,13 @@
                <img src="https://i.imgur.com/fpexy6i.png" width="60" />
                
             </button>
-                
-
+                 <form action="#" onsubmit="playerShouts()">
+                  <input type="text" class="playerShout" > 
+               </form>
+       
                   
-                  <input type="text" class="playerShout">  <div id="example2"></div>
+                  <!-- example2 is the raindops ripple effect plugin -->
+                  <div id="example2"></div>
                </div>
    </div>
 
