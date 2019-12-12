@@ -10,44 +10,15 @@ Lies in a silent valley
 
 on the Moon.
 
-<br>
 
-<br>
-
-<img src="https://imgur.com/KMyOAn3.png" width="680">
-
-<h2>Teachtaracht o Roinn na Gnothai Geallaí
-Incomming transmission from the Ministry of Lunar Affairs:</h2>
-
-<h1>Tchanss...</h1>
-<br>
-<img src="https://i.imgur.com/GMHImR0.png" width="680">
-
-
-<h3>
-<div style="animation:delay-fade-in 0.5s;">
-<span id='Is there more involved with language than speech?'>An bhfuil níos mó i gceist le teanga ná caint?</span>  
-</div>
-</h3>
-
-<button>Tá.</button><button> Níl</button>
-
-Go minic smaoinín daoine ar costas nuair a deantar Gaelachas agus an Gaeilge a plé.  Is fior go bhfuil costas airgead agus fuinneamh ag bainnt leis an teanga a chaobhnú.  
-
-
-Tá sé deachair lúach an teanga a thomhais, gan í a thuiscint. Lúach Teanga, lúach tuiscint.
-
-Ní linn uiscí na hÉireann, ní i ndarríre. 
-Ní linn na híasc na habhainn nó na crínn sna foirís. 
-Ár samhlíocht an áis is lúachmhar gur linn í. 
+Ní linn uiscí na hÉireann, ní i ndarríre.
+Ní linn na híasc na habhainn nó na crínn sna foirís.
+Ár samhlíocht an áis is lúachmhar gur linn í.
 7
 Tá sé in ám í a dhuiseacht.
 
 "Raight"
 arsa an Ministéir,
-
-<img src= "http://api.ning.com/files/xLJQfJNYZ-yQpCaWO0uF8GYQ8DsiwQ3erwYd5t4xKvKnGQI6DqGqWjiXcwRXIVch5uQmbG-6gN9y-mLLAmXtK6oi9im87TbM/collins.jpg" width="680">
-
 
 <h3>
 cad tá sa chiste? | How are our finances?
@@ -61,7 +32,7 @@ Tá muid gann ar achmhanaí. Ach tá na mílte fáinní sídh aginn. | We are lo
 <img src= "https://i.imgur.com/FdOnfC5.png" width="680">
 
 <br>
-Cad deirfá faoi sean chiorcal amháin a oscailt? hau? Ar feadh cúpla nóméad. Cad deirfá faoi sin. roighnaigh ceann. | What would you say to opening one old circle? Just for a few minutes. 
+Cad deirfá faoi sean chiorcal amháin a oscailt? hau? Ar feadh cúpla nóméad. Cad deirfá faoi sin. roighnaigh ceann. | What would you say to opening one old circle? Just for a few minutes.
 <br>
 <h2>Choose one.</h2>
 
@@ -75,25 +46,12 @@ An feidir Gaeilge a thuiscint i mBearla?
 
 
 
-Samhlaigh ar feadh nóméad gur
 easpa spás is cuis len ár dúcheist teanga.
 <br>
 <img src="https://imgur.com/npy1wGO.png" width ="680">
 <br>
-Ní easpa Gaeilge is cúis len ár dúcheist Teanga,
-Ní de bhárr easpa spéis go bhfuil muid lag intí;
 
-cinnte ní de bharr easpa iarracht ach oiread.
-
-Tá an Gaeilge faoí chéilt.
-<img src="https://imgur.com/2mcbyRx.png" width ="680">
-
-Mar freagra ar ceist mór na Gael:
-Spás fiorúl i nGaeilge
-B'feidir gur feidir
-Linn aithrú a spreagadh sa scéal
-
-Is feidir linn líofacht a fáil arís ar an Gaeilge, le cheile, i spás fíorúil; 
+Is feidir linn líofacht a fáil arís ar an Gaeilge, le cheile, i spás fíorúil;
 i gcomhair beart agus bríthar.
 <br>
 
@@ -108,14 +66,14 @@ I mBearla, tá an Gaeilge glanscartha ó brí an Gaeilge.
 I mBearla, caithfaidh muid an Gaeilge a pléa amhlaidh gur dilín í.  (ornament)
 Ní tuigtar go mbeadh aon tionchar ar sochaí ag breith greidhm ar an Gaeilge arís.
 
-Plétar í i leith 'Irish Speakers'. 
-Glachtar leis, gan ach 2% le chloisteant, ní chailfar ach 2% gan í, agus cosníonn sí i bhad nios mó ná 2% dár níarracht. 
+Plétar í i leith 'Irish Speakers'.
+Glachtar leis, gan ach 2% le chloisteant, ní chailfar ach 2% gan í, agus cosníonn sí i bhad nios mó ná 2% dár níarracht.
 
 Is feidir nós ar bith a haistrú go Bearla.
 I mBearla, níl gá le Éire. Is leoir 'Ireland'.
 
-Ach tá níos mó i gceist le teanga ná caint. Comhras smaoineamh í an Ghaeilge. 
-Eiceachóras físanna na mílte blianta d'aois í. 
+Ach tá níos mó i gceist le teanga ná caint. Comhras smaoineamh í an Ghaeilge.
+Eiceachóras físanna na mílte blianta d'aois í.
 
 Tá Gaeilge éigin ag gach Bearl-cainteoir sa tír. Ní ábhar fachnaoid iad na cúpla focal. Síolta íad.
 
