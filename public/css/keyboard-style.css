@@ -45,7 +45,8 @@
 
 }
 
-#keyboard-container, #caps-keyboard-container, #fada-mode,#new-buttons{
+#keyboard-container, #caps-keyboard-container, #fada-mode,#new-buttons, #hero-keyboard
+{
 	position:fixed;
 	bottom:5%;
 	background-color:rgba(144, 144, 144, 0.52);
@@ -61,6 +62,10 @@
 #e-line, #f-line , #a-line, #c-line, #shift-line{
 	/* border:2px solid orange; */
 	width:100%;
+}
+.h-lines{
+	width:100%;
+
 }
 
 
@@ -193,31 +198,48 @@ left:7%;
 height:570px;}
 
 
-
-
 @media only screen and (orientation:portrait) {
 
-.dm-says{
-display:none;
-margin:10px;
-font-size:4em;
-/* display:grid; */
-width:84%;
-color:gainsboro;
-margin-top:-60%;
+	.dm-says{
+	display:none;
+	margin:10px;
+	font-size:4em;
+	/* display:grid; */
+	width:84%;
+	color:gainsboro;
+	margin-top:-60%;
 
-}}
+	}
+	.highlit-btn{
+		color:greenyellow !important;
+	}
+
+	#keyboard-container{
+		display:none;
+	}
+
+	
+		.h-lines{
+		padding-left:2%;
+		}
+
+
+	}
 
 
 
 
 @media only screen and (orientation:landscape) {
 
-.dm-says{
-	margin:10px;
-	/* display:grid; */
-	width:84%;
-	color:gainsboro;
-	margin-top:-17%;
+	.dm-says{
+		margin:10px;
+		/* display:grid; */
+		width:84%;
+		color:gainsboro;
+		margin-top:-17%;
 
-}}
+	}
+	#keyboard-container, #hero-keyboard{
+		display:none;
+	}
+}
