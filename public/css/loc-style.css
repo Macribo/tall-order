@@ -134,9 +134,20 @@ body {
 @media only screen and (orientation:portrait) {
   #output{
     margin-top:10%;
+    display: block;
 
-
+  }
+  #hero-keyboard{
+    display:block;
+  }
+}
+@media only screen and (orientation:landscape) {
+  #output{
+    display:none;
+    
+  }
+  #hero-keyboard{
+    display:none;
   }
 
 }
-@media only screen and (orientation:landscape) {}
