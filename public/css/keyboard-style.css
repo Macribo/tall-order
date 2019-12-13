@@ -8,7 +8,7 @@
 @font-face { font-family: 'Urchlo Romhanach'; src: url('../fonts/Urchlo\ Romhanach.ttf'); } 
 #output{
 	position: fixed;
-	width:90%;
+	width:100%;
 	height:30%;
 	/* border:3px solid green; */
 	margin:5%;
@@ -183,11 +183,10 @@ font-size:3.25rem !important;
 
 #output{
 position: relative;
-width:90%;
-height:30%;
-color:red !important;
+width:100%;
+/* height:30%; */
 /* border:3px solid green; */
-margin:5%;
+/* margin:5%; */
 font-family: 'Urchlo Romhanach';
 z-index: 1000;
 word-wrap: break-word;
