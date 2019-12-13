@@ -249,7 +249,7 @@ p
   margin: -75px 0 0 -75px;
   border-radius: 50%;
   border: 3px solid transparent;
-  border-top-color: #383838;
+  border-top-color: #5ae271;
   -webkit-animation: spin 2s linear infinite;
   /*Chrome, opera 15+, safari 5+*/
   animation: spin 2s linear infinite;
@@ -266,7 +266,7 @@ p
   bottom: 5px;
   border-radius: 50%;
   border: 3px solid transparent;
-  border-top-color: #353535;
+  border-top-color: #318500;
   -webkit-animation: spin 3s linear infinite;
   /*Chrome, opera 15+, safari 5+*/
   animation: spin 3s linear infinite;
@@ -282,7 +282,7 @@ p
   bottom: 15px;
   border-radius: 50%;
   border: 3px solid transparent;
-  border-top-color: #535353;
+  border-top-color: #58a02e;
   -webkit-animation: spin 1.5s linear infinite;
   /*Chrome, opera 15+, safari 5+*/
   animation: spin 1.5s linear infinite;

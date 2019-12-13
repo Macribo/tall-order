@@ -39,6 +39,7 @@ body {
   background-color: goldenrod;
 }
 #tall-order {
+  top:0%;
   width: 1024px;
   /* padding-top: 128px; */
   margin: 0;
@@ -115,3 +116,23 @@ body {
 #back-to-main-menu:hover {
   color: gainsboro;
 }
+
+#output{
+  /* z-index: */
+  /* border:4px solid orange; */
+  height:750px;
+  background-image: url('../images/ui/bg-dreary-sky.png');
+  background-size:contain;
+  background-repeat:no-repeat;
+  margin:0;
+}
+
+
+@media only screen and (orientation:portrait) {
+  #output{
+    margin-top:22%;
+
+  }
+
+}
+@media only screen and (orientation:landscape) {}
