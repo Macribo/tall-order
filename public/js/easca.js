@@ -145,6 +145,7 @@ else{
 
 function holdKeyDown() {
 	// alert(keyPressed);
+	if($('#hero-keyboard').is('hidden')){
 	
 	// alert(keysToShow)
 	for (let i = 0; i<keysToShow.length; i++){
@@ -164,6 +165,7 @@ function holdKeyDown() {
 		// alert("removed");
 },2000
 )
+}
 }
 	$('.btn').on('touchstart', function(){
 		$('#j-line').empty();

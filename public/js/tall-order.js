@@ -1,5 +1,6 @@
 /*credit - Rex van der Spuy, "Foundation Game Design with HTML Javascript" */
 $(document).ready(function() {
+  
   $('.cubes').fadeTo(2000, 0);
   // alert(Cookies.get('place'));
   var locationID = Cookies.get('locationID');
@@ -7,7 +8,7 @@ $(document).ready(function() {
     switch (lastPressed) {
       case 'down':
         gameObjects[sheepRow][sheepColumn] = BLOCKED;
-
+// alert();
         sheepRow--;
 
         //Apply the sheep's new updated position to the array
@@ -161,11 +162,8 @@ $(document).ready(function() {
 
     gameObjects[sheepRow][sheepColumn] = sheep;
   };
-  function keydownHandler(event) {
-    if (keyboardActive) {
-      switch (event.keyCode) {
-        case UP:
-          //Find out if the sheep's move will
+goUp = ()=>{
+ //Find out if the sheep's move will
           //be within the playing field
           if (sheepRow > 0) {
             //first buffer sheep position to simulate blocked squares
@@ -182,36 +180,89 @@ $(document).ready(function() {
             //Apply the sheep's new updated position to the array
             // gameObjects[sheepRow][sheepColumn] = sheep;
           }
+}
+
+goDown = ()=>{
+  if (sheepRow < ROWS - 1) {
+    lastPressed = 'down';
+    gameObjects[sheepRow][sheepColumn] = ROWS - 0;
+    sheepRow++;
+    animatePlayer();
+  }
+}
+goLeft = ()=>{
+  if (sheepColumn > 1) {
+    gameObjects[sheepRow][sheepColumn] = 1;
+    sheepColumn--;
+    lastPressed = 'left';
+    animatePlayer();
+    // gameObjects[sheepRow][sheepColumn] = sheep;
+  }
+
+}
+goRight = ()=>{
+  if (sheepColumn < COLUMNS - 1) {
+    gameObjects[sheepRow][sheepColumn] = 0;
+    sheepColumn++;
+    // gameObjects[sheepRow][sheepColumn] = sheep;
+
+    lastPressed = 'right';
+    animatePlayer();
+  }
+
+}
+let underfoot;
+  $('#up').on('touchstart', function(){
+    // alert();
+    goUp();
+    underfoot = map[sheepRow][sheepColumn];
+    if(underfoot ===7){
+    goDown();
+    // keydownHandler('up')
+  }});
+  $('#down').on('touchstart', function(){
+    goDown();
+    underfoot = map[sheepRow][sheepColumn];
+    if(underfoot ===7){
+    goUp();
+      
+    };
+    // keydownHandler('up')
+  });
+  $('#left').on('touchstart', function(){
+    // alert();
+    goLeft();
+   
+    underfoot = map[sheepRow][sheepColumn];
+    if(underfoot ===7){
+    goRight();
+    // keydownHandler('up')
+  }});
+  $('#right').on('touchstart', function(){
+    // alert();
+    goRight();
+    underfoot = map[sheepRow][sheepColumn];
+    if(underfoot ===7){
+    goLeft();}
+    // keydownHandler('up')
+  });
+  function keydownHandler(event) {
+    if (keyboardActive) {
+      switch (event.keyCode) {
+        case UP:
+         goUp(); 
           break;
 
         case DOWN:
-          if (sheepRow < ROWS - 1) {
-            lastPressed = 'down';
-            gameObjects[sheepRow][sheepColumn] = ROWS - 0;
-            sheepRow++;
-            animatePlayer();
-          }
+          goDown();
           break;
 
         case LEFT:
-          if (sheepColumn > 1) {
-            gameObjects[sheepRow][sheepColumn] = 1;
-            sheepColumn--;
-            lastPressed = 'left';
-            animatePlayer();
-            // gameObjects[sheepRow][sheepColumn] = sheep;
-          }
+          goLeft();
           break;
 
         case RIGHT:
-          if (sheepColumn < COLUMNS - 1) {
-            gameObjects[sheepRow][sheepColumn] = 0;
-            sheepColumn++;
-            // gameObjects[sheepRow][sheepColumn] = sheep;
-
-            lastPressed = 'right';
-            animatePlayer();
-          }
+          goRight();
           break;
       }
     }
