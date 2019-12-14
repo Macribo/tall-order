@@ -364,6 +364,7 @@ $(document).ready(function() {
       //from the previous turn
       if (upHasBeenPressed) {
         setTimeout(function(){
+          $('#shout').css('display','block')
           $('#shout').html(`<img src="./images/ui/shout.png">`)
 
      },2000)
@@ -2080,7 +2081,7 @@ $(document).ready(function() {
   playerShouts = () => {
       //console.log( "Handler for .keypress() called." );
       // alert('kungfu ');
-      $('.playerShout').fadeOut();
+      // $('.playerShout').fadeOut();
 
   }
   jQuery('#example2').raindrops({
@@ -2091,12 +2092,12 @@ $(document).ready(function() {
 
   $('#shout').on('click', function() {
       // alert('hey')
-      setTimeout(function() {
-          $('.playerShout').fadeIn();
-          $('#example2').fadeTo("fast", 1);
-          $('.playerShout').focus();
-      }, 1000);
-      $('.btn').fadeOut();
+      // setTimeout(function() {
+          // $('.playerShout').fadeIn();
+          // $('#example2').fadeTo("fast", 1);
+          // $('.playerShout').focus();
+      // }, 1000);
+      // $('.btn').fadeOut();
 
 
   });
