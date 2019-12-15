@@ -238,6 +238,19 @@ height:570px;}
 
 
 }
+#deir-user{
+	color:white;
+	font-size:3rem;
+}
+
+#who-you{
+	display:none;
+	position:absolute;
+	font-size: 5em;
+	left:29%;
+	top:25%;
+	color: white;
+  }
 
 	}
 
@@ -257,4 +270,6 @@ height:570px;}
 	#keyboard-container, #hero-keyboard{
 		display:none;
 	}
+
+
 }
