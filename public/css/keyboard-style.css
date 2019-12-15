@@ -210,8 +210,12 @@ height:570px;}
 
 	}
 	.highlit-btn{
-		color:greenyellow !important;
+		
+		color:rgb(218, 199, 91) !important;
+		background-color:rgb(105, 67, 102)!important;
 	}
+
+	
 
 	#keyboard-container{
 		display:none;
@@ -225,8 +229,14 @@ height:570px;}
 	/* display:none; */
 	zoom:1.2;
 	margin:0;
+	background-color:#626262 !important;
 	
 	padding:0;
+}
+#rogha{
+	background-color:#626262!important;
+
+
 }
 
 	}
