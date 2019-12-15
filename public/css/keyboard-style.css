@@ -199,6 +199,8 @@ height:570px;}
 
 @media only screen and (orientation:portrait) {
 
+
+	
 	.dm-says{
 	display:none;
 	margin:10px;
@@ -242,19 +244,27 @@ height:570px;}
 	color:white;
 	font-size:3rem;
 }
-
-#who-you{
+h2{
+	font-size:4rem !important;
+}
+#who-you {
 	display:none;
 	position:absolute;
-	font-size: 5em;
-	left:29%;
-	top:25%;
-	color: white;
+	font-size: 3em;
+	left:34%;
+	top:5%;
+	/* background-color: rgba(75, 80, 75,0) !important; */
+	color:rgb(190, 190, 190);
+
+	/* color: rgb(97, 97, 97); */
   }
+#aussie{
+	zoom: 0.3;
+	padding-top:0%;
+	 padding-left:19%
+}
 
-	}
-
-
+}
 
 
 @media only screen and (orientation:landscape) {
@@ -272,4 +282,4 @@ height:570px;}
 	}
 
 
-}
+	}

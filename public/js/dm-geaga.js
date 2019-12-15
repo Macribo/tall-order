@@ -20,12 +20,21 @@ $(document).ready(function () {
    let dmAgCainnt = false;
    let justListen = false;
    let dmGeaga = [
+    // <form><radial btn><Herr></radial btn></radial>
     `
-    "<div id="who-you">Cé tú?"</div>`,
+    <div id="who-you"  class="align-middle">
+
+<h2 class="greets">Guten Tag</h2> 
+<br>  
+<button type="button" class="btn btn-secondary btn-lg">Herr</button>
+    <button type="button" class="btn btn-secondary btn-lg">Frau</button>
+<br/><br/><h2>Auslander</h2>
+<br/>
+  <img id='aussie'src="./images/0.png">  </div>`,
 `<button type="button" class="btn btn-outline-light">...is ainm dom</button><br/>
 <button type="button" class="btn btn-outline-light">I don't understand</button>`
     ,
-    `<h2>is ainm dom</h2>`,``,``,``
+    `<h2 class="greets">is ainm dom</h2>`,``,``,``
 ];
 $('#shout').on('touchend', function(){
 
@@ -46,8 +55,10 @@ begin = () =>{
 
 render=()=>{
     if(localStoryStep === 0){
-
-    $('#output').html(`${dmGeaga[0]}`);
+        $('#output').html(`${dmGeaga[0]}`);
+setTimeout(function(){
+    $('#who-you').fadeIn();
+},2000)
     }
 if(localStoryStep === 1){
 $('#keyboard-container').fadeIn();

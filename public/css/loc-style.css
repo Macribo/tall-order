@@ -132,6 +132,15 @@ body {
 
 
 @media only screen and (orientation:portrait) {
+ 
+	.input-group-text {
+color:rgb(190, 190, 190);
+		font-size:1em;
+	background-color: rgba(75, 80, 75,0);
+ border:1px solid rgba(0,0,0,0); 
+}
+
+/* #who-you settings in keyboard-style.css */
   #output{
     /* margin-top:10%; */
     display: block;
