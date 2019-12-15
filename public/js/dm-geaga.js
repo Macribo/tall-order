@@ -1,19 +1,13 @@
 $(document).ready(function () {
 
-
-
-
     /*update keyboard appearance
     according to dm is speaking or not.
-    
-
-
     player-can-type = false;
 
     listen for green keypress
 
     */
-
+    let userGender;
    let prevStoryStep = 'inbound from cookie || null'
    let localStoryStep = 0;
 
@@ -21,20 +15,37 @@ $(document).ready(function () {
    let justListen = false;
    let dmGeaga = [
     // <form><radial btn><Herr></radial btn></radial>
+    `<div id="who-you"  class="align-middle">
+        <h2 class="greets">
+            Guten Tag
+        </h2> 
+        <br>  
+        <button type="button" class="btn btn-secondary btn-lg" id="herr">
+            Herr
+        </button>
+        <button type="button" class="btn btn-secondary btn-lg" id="frau">
+            Frau
+        </button>
+        <br/>
+        <br/>
+        <h2>Auslander</h2>
+        <br/>
+        <img id='aussie'src="./images/0.png">
+    </div>`,
     `
-    <div id="who-you"  class="align-middle">
-
-<h2 class="greets">Guten Tag</h2> 
-<br>  
-<button type="button" class="btn btn-secondary btn-lg">Herr</button>
-    <button type="button" class="btn btn-secondary btn-lg">Frau</button>
-<br/><br/><h2>Auslander</h2>
-<br/>
-  <img id='aussie'src="./images/0.png">  </div>`,
-`<button type="button" class="btn btn-outline-light">...is ainm dom</button><br/>
-<button type="button" class="btn btn-outline-light">I don't understand</button>`
+    <h2>    Hier Learnt Man Komputer Irish</h2>
+    <button id"okay"£ type="button" class="btn btn-outline-light">
+        Okay
+    </button>
+    <br/>
+    <button type="button" class="btn btn-outline-light">
+    <<
+    </button>`
     ,
-    `<h2 class="greets">is ainm dom</h2>`,``,``,``
+    `<h2 class="greets">is ainm dom</h2>`,`
+        <div id="who-you"  class="align-middle">1</div>
+
+    `,``,``
 ];
 $('#shout').on('touchend', function(){
 
@@ -44,6 +55,7 @@ $('#shout').on('touchend', function(){
     
 }
 );
+
 begin = () =>{
     localStoryStep++;
     // $('#output').html(dmGeaga[1]);
@@ -59,12 +71,26 @@ render=()=>{
 setTimeout(function(){
     $('#who-you').fadeIn();
 },2000)
+$('#herr').on('click', function(){
+    userGender = "masculine";
+    
+})
+$('#frau').on('touch', function(){
+    userGender = "feminine";
+
+})
+
     }
 if(localStoryStep === 1){
 $('#keyboard-container').fadeIn();
+$('#hero-keyboard').fadeOut();
+$('#okay').on('click', function(){
+    localStoryStep++;
+    render();
+})
 // alert(localStoryStep);
     $('#output').html(`${dmGeaga[1]}`);
-
+render();
 }
 }
 
