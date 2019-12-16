@@ -4,8 +4,10 @@ $(document).ready(function() {
   $('.cubes').fadeTo(2000, 0);
  
 
-  // alert(Cookies.get('place'));
+//   alert(Cookies.get('place'));
   var locationID = Cookies.get('locationID');
+//   alert(locationID);
+
   blockPath = () => {
       switch (lastPressed) {
           case 'down':

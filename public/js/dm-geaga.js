@@ -68,15 +68,18 @@ begin = () =>{
 render=()=>{
     if(localStoryStep === 0){
         $('#output').html(`${dmGeaga[0]}`);
-setTimeout(function(){
-    $('#who-you').fadeIn();
-},2000)
-$('#herr').on('click', function(){
-    userGender = "masculine";
+        setTimeout(function(){
+            $('#who-you').fadeIn();
+        },2000)
+        $('#herr').on('click', function(){
+        userGender = "masculine";
+        $('#who-you').fadeOut();
+            // alert('who-you gone?');
     
 })
-$('#frau').on('touch', function(){
+$('#frau').on('click', function(){
     userGender = "feminine";
+    $('#who-you').fadeOut();
 
 })
 
