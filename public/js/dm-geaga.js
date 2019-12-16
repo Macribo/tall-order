@@ -32,71 +32,111 @@ $(document).ready(function () {
         <br/>
         <img id='aussie'src="./images/0.png">
     </div>`,
-    `
-    <h2>    Hier Learnt Man Komputer Irish</h2>
-    <button id"okay"£ type="button" class="btn btn-outline-light">
-        Okay
-    </button>
+
+    //1
+    `<div id="who-you"  class="align-middle" style="left:0%">
+    <h2>Diese App ist für die Entwicklung des irischen Programmierkenntnisse</h2>
     <br/>
-    <button type="button" class="btn btn-outline-light">
-    <<
-    </button>`
+    <h3>Lektion:</h3>
+    <button type="button" class="btn btn-secondary btn-lg" id="btn-lesson-0">
+            0
+        </button>
+        <button type="button" class="btn btn-secondary btn-lg" id="btn-lesson-1">
+            1
+        </button>
+    </div>
+ `
+ //2
     ,
-    `<h2 class="greets">is ainm dom</h2>`,`
-        <div id="who-you"  class="align-middle">1</div>
-
-    `,``,``
-];
-$('#shout').on('touchend', function(){
-
-   begin();
-        // alert('kungfu')
-    $('#hero-keyboard').fadeOut();
+    `
+    <h1>0</h1>`,`
+    `,
     
-}
-);
+    //3
+    `
+    <div id="who-you"  class="align-middle">1</div>
+    
+    `,``
+];
 
-begin = () =>{
-    localStoryStep++;
-    // $('#output').html(dmGeaga[1]);
-    // alert('dmGeaga[1]');
-    render();
-}
+setupFirstLessons = () =>{
 
+    $('#btn-lesson-0').on('click', function(){
+        localStoryStep++;
+        $('#output').html(`${dmGeaga[2]}`);
+        $('#who-you').fadeIn();
+    alert('0!');
+
+    });
+
+    $('#btn-lesson-1').on('click', function(){
+        localStoryStep++;
+        $('#output').html(`${dmGeaga[3]}`);
+        $('#who-you').fadeIn();
+    alert('1!');
+
+    });
+}
 
 
 render=()=>{
+    
     if(localStoryStep === 0){
         $('#output').html(`${dmGeaga[0]}`);
         setTimeout(function(){
             $('#who-you').fadeIn();
         },2000)
         $('#herr').on('click', function(){
-        userGender = "masculine";
-        $('#who-you').fadeOut();
-            // alert('who-you gone?');
+            userGender = "masculine";
+            localStoryStep++;
+            $('#output').html(``);
+        // $('#who-you').fadeOut();
+            $('#output').html(`${dmGeaga[1]}`);
+            $('#who-you').fadeIn();
+            $('#hero-keyboard').fadeOut();
+            setupFirstLessons()
+            
+            
+        })
+        $('#frau').on('click', function(){
+            userGender = "feminine";
+            localStoryStep++;
+            $('#hero-keyboard').fadeOut();
+            $('#output').html(`${dmGeaga[1]}`);
+            $('#who-you').fadeIn();
+            $('#keyboard-container').fadeIn();
+         setupFirstLessons()
     
 })
-$('#frau').on('click', function(){
-    userGender = "feminine";
-    $('#who-you').fadeOut();
 
-})
-
-    }
+}
 if(localStoryStep === 1){
-$('#keyboard-container').fadeIn();
+    $('#keyboard-container').fadeIn();
 $('#hero-keyboard').fadeOut();
-$('#okay').on('click', function(){
-    localStoryStep++;
-    render();
-})
-// alert(localStoryStep);
+
+
+
+
     $('#output').html(`${dmGeaga[1]}`);
-render();
-}
+
+
 }
 
+
+$('#btn-lesson-1').on('click', function(){
+    $('#keyboard-container').fadeIn();
+
+    // $('#who-you').fadeOut();
+    $('#output').html(`${dmGeaga[3]}`);
+    localStoryStep++;
+    $('#who-you').fadeIn();
+
+})
+
+
+
+}
+    
 render();
 
 
