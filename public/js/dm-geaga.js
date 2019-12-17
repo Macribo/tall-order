@@ -65,7 +65,9 @@ setupFirstLessons = () =>{
         localStoryStep++;
         $('#output').html(`${dmGeaga[2]}`);
         $('#who-you').fadeIn();
-    alert('0!');
+    setTimeout(function(){
+        window.location.href('https://macribo.github.io/manifesto/manifesto/src/manifesto.html')
+    },1000)
 
     });
 
@@ -73,9 +75,9 @@ setupFirstLessons = () =>{
         localStoryStep++;
         $('#output').html(`${dmGeaga[3]}`);
         $('#who-you').fadeIn();
-    alert('1!');
+    alert('le lódál: 1!');
 
-    });
+    })
 }
 
 
