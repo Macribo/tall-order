@@ -67,7 +67,7 @@ afterSelectGender = ()=>{
     $('#output').html(``);
     $('#herr').html(`0`)
     
-    $('#frau').html(`1`)
+    $('#frau').html(`1`);
     $('#g-eile').html(`2`);
 
     // $('#who-you').fadeOut();
@@ -75,16 +75,24 @@ afterSelectGender = ()=>{
     $('#who-you').fadeIn();
     $('#hero-keyboard').fadeOut();
     // setupFirstLessons()
-    $('#herr').on('touch', function(){
-        window.location('https://macribo.github.io/manifesto/manifesto/src/manifesto.html')
-    })
+    // $('#herr').on('touch', function(){
+    // })
    
+
 }
 
 render=()=>{
     // if(window.innerWidth > window.innerHeight){
 
-
+        $('#herr').on('touchend', function(){
+            // if(localStoryStep >= 0){
+                alert(localStoryStep)
+        
+                // window.location('https://macribo.github.io/manifesto/manifesto/src/manifesto.html')
+        
+            // }
+        });
+        
         
     // }
     if(localStoryStep === 0){
@@ -113,8 +121,7 @@ if(localStoryStep === 1){
     $('#keyboard-container').fadeIn();
     $('#herr').css('border','3px solid blue');
 // $('#hero-keyboard').fadeOut();
-
-
+alert(localStoryStep)
 
 
     $('#output').html(`${dmGeaga[1]}`);
