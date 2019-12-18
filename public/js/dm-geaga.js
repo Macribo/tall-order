@@ -17,33 +17,16 @@ $(document).ready(function () {
     // <form><radial btn><Herr></radial btn></radial>
     `<div id="who-you"  class="align-middle">
         <h2 class="greets">
-            Guten Tag
+            Guten Abend,
         </h2> 
-        <br>  
-        <button type="button" class="btn btn-secondary btn-lg" id="herr">
-            Herr
-        </button>
-        <button type="button" class="btn btn-secondary btn-lg" id="frau">
-            Frau
-        </button>
-        <br/>
-        <br/>
         <h2>Auslander</h2>
-        <br/>
         <img id='aussie'src="./images/0.png">
     </div>`,
 
     //1
     `<div id="who-you"  class="align-middle" style="left:0%">
     <h2>Diese App ist für die Entwicklung des irischen Programmierkenntnisse</h2>
-    <br/>
-    <h3>Lektion:</h3>
-    <button type="button" class="btn btn-secondary btn-lg" id="btn-lesson-0">
-            0
-        </button>
-        <button type="button" class="btn btn-secondary btn-lg" id="btn-lesson-1">
-            1
-        </button>
+
     </div>
  `
  //2
@@ -82,7 +65,11 @@ setupFirstLessons = () =>{
 
 
 render=()=>{
-    
+    // if(window.innerWidth > window.innerHeight){
+
+
+        
+    // }
     if(localStoryStep === 0){
         $('#output').html(`${dmGeaga[0]}`);
         setTimeout(function(){
@@ -114,7 +101,8 @@ render=()=>{
 }
 if(localStoryStep === 1){
     $('#keyboard-container').fadeIn();
-$('#hero-keyboard').fadeOut();
+    $('#herr').css('border','3px solid blue');
+// $('#hero-keyboard').fadeOut();
 
 
 
@@ -132,7 +120,7 @@ $('#btn-lesson-1').on('click', function(){
     $('#output').html(`${dmGeaga[3]}`);
     localStoryStep++;
     $('#who-you').fadeIn();
-
+    
 })
 
 

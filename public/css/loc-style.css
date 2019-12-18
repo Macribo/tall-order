@@ -147,11 +147,16 @@ color:rgb(190, 190, 190);
 
   }
   #hero-keyboard{
-    display:block;
+    /* display:block; */
+display:none;
   }
 }
 @media only screen and (orientation:landscape) {
   #output{
+    display:none;
+    
+  }
+  .btn-ui-0{
     display:none;
     
   }
