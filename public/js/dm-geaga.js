@@ -15,17 +15,17 @@ $(document).ready(function () {
    let justListen = false;
    let dmGeaga = [
     // <form><radial btn><Herr></radial btn></radial>
-    `<div id="who-you"  class="align-middle">
+    `<div id="who-you"  class="align-center">
         <h2 class="greets">
             Guten Abend,
         </h2> 
-        <h2>Auslander</h2>
+        <h2 class="greets">  Auslander</h2>
         <img id='aussie'src="./images/0.png">
     </div>`,
 
     //1
     `<div id="who-you"  class="align-middle" style="left:0%">
-    <h2>Diese App ist für die Entwicklung des irischen Programmierkenntnisse</h2>
+    <h2 class="greets">Diese App ist für die Entwicklung des irischen Programmierkenntnisse</h2>
 
     </div>
  `
@@ -62,7 +62,24 @@ setupFirstLessons = () =>{
 
     })
 }
+afterSelectGender = ()=>{
+    localStoryStep++;
+    $('#output').html(``);
+    $('#herr').html(`0`)
+    
+    $('#frau').html(`1`)
+    $('#g-eile').html(`2`);
 
+    // $('#who-you').fadeOut();
+    $('#output').html(`${dmGeaga[1]}`);
+    $('#who-you').fadeIn();
+    $('#hero-keyboard').fadeOut();
+    // setupFirstLessons()
+    $('#herr').on('touch', function(){
+        window.location('https://macribo.github.io/manifesto/manifesto/src/manifesto.html')
+    })
+   
+}
 
 render=()=>{
     // if(window.innerWidth > window.innerHeight){
@@ -77,24 +94,17 @@ render=()=>{
         },2000)
         $('#herr').on('click', function(){
             userGender = "masculine";
-            localStoryStep++;
-            $('#output').html(``);
-        // $('#who-you').fadeOut();
-            $('#output').html(`${dmGeaga[1]}`);
-            $('#who-you').fadeIn();
-            $('#hero-keyboard').fadeOut();
-            setupFirstLessons()
-            
+           afterSelectGender(); 
             
         })
         $('#frau').on('click', function(){
             userGender = "feminine";
-            localStoryStep++;
-            $('#hero-keyboard').fadeOut();
-            $('#output').html(`${dmGeaga[1]}`);
-            $('#who-you').fadeIn();
-            $('#keyboard-container').fadeIn();
-         setupFirstLessons()
+           afterSelectGender(); 
+             
+})
+$('#g-eile').on('click', function(){
+    userGender = "other";
+    afterSelectGender(); 
     
 })
 

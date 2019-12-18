@@ -200,7 +200,11 @@ height:570px;}
 
 
 @media only screen and (orientation:portrait) {
-
+.greets{
+	/* border:2px solid orange; */
+	align-content: center;
+	text-align: center;
+}
 
 	
 	.dm-says{
