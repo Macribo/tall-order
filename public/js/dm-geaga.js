@@ -85,12 +85,12 @@ render=()=>{
     // if(window.innerWidth > window.innerHeight){
 
         $('#herr').on('touchend', function(){
-            // if(localStoryStep >= 0){
-                alert(localStoryStep)
+            if(localStoryStep === 1){
+                // alert(localStoryStep)
         
-                // window.location('https://macribo.github.io/manifesto/manifesto/src/manifesto.html')
+                window.location.replace('https://macribo.github.io/manifesto/manifesto/src/manifesto.html')
         
-            // }
+            }
         });
         
         
